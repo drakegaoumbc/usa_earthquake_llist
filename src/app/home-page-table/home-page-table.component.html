@@ -1,0 +1,35 @@
+<div *ngIf="earthQuakeProperty">
+	<table class="table">
+		<thead>
+			<tr>
+				<th>State</th>
+				<th>Time</th>
+				<th>Type</th>
+				<th>Title</th>
+				<th>Magnitute</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr *ngFor="let info of earthQuakeProperty">
+				<td>{{info.place}}</td>
+				<td>{{info.time}}</td>
+				<td>{{info.type}}</td>
+				<td>{{info.title}}</td>
+				<td>{{info.mag}}</td>
+			</tr> 
+		</tbody>
+	</table>
+</div>
+
+<!-- <h1>Filter By Magnitude</h1>
+    <p>
+        <label [class.selected]="r1.checked">
+            <input #r1 type="radio" name="r" value="1" (change)="changeMag($event)"> One
+        </label>
+        <label [class.selected]="r2.checked">
+            <input #r2 type="radio" name="r" value="2" (change)="changeMag($event)"> Two
+        </label>
+        <label [class.selected]="r3.checked">
+            <input #r3 type="radio" name="r" value="3" (change)="changeMag($event)"> Three
+        </label>
+    </p> -->

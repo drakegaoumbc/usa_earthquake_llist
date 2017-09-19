@@ -1,0 +1,21 @@
+path {
+
+    fill: black;
+}
+svg .state {
+    stroke-width: 2;
+    stroke: #fff;
+
+    -webkit-transition: stroke 0.5s, stroke-width 0.5s;
+    -o-transition: stroke 0.5s, stroke-width 0.5s;
+    transition: stroke 0.5s, stroke-width 0.5s;
+}
+
+svg .state:hover {
+    cursor: pointer;
+    fill: blue;
+}
+
+.panel > h3 {
+    text-align: center;
+}
