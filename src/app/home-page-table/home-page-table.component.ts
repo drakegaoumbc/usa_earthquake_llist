@@ -14,7 +14,7 @@ export class HomePageTableComponent implements OnInit {
 
 
   @Input()
-  earthQuakeProperty: EarthQuakeProperty;
+  earthQuakeProperty: EarthQuakeProperty[];
 
   constructor(private service: EarthquakeServiceComponent) { }
 

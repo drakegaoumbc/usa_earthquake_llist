@@ -38,26 +38,28 @@ export class SVGMapComponent implements OnInit {
 
   chooseState(event: Event): void {
 	  this.stateName = event.srcElement.attributes[3].value;
-	  if(this.returnedInfo !== null || this.returnedInfo) {
-		console.log("here");
-	  }
-	  this.showSingleState(this.stateName);
+	  if(this.returnedInfo) {
+			this.stateQuakeInfo = this.returnedInfo.filter(item => {
+				return item.place.slice(-2) === this.stateName;
+			});
+			console.log(this.stateQuakeInfo);
+		} else {
+			this.showSingleState(this.stateName);
+		}
   }
 
   showAllEarthquakePast1Hour(): void {
-	
   	this.req = this.service.earthQuakeLastHour().subscribe(data => {
 		this.returnedInfo = data;
 		this.stateQuakeInfo = this.returnedInfo;
-  		console.log(this.stateQuakeInfo);
   	});
   }
 
   private showSingleState(state: string): void {
-	this.req = this.service.earthQuakeSingleState(state).subscribe(data => {
-		this.stateQuakeInfo = data;
-		console.log(data);
-	});
+		this.req = this.service.earthQuakeSingleState(state).subscribe(data => {
+			this.stateQuakeInfo = data;
+			console.log(data);
+		});
   }
 }
 
