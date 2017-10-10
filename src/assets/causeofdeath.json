@@ -1,0 +1,2270 @@
+{
+ All persons:[
+   rownum: "1", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "761085"
+  }
+   rownum: "2", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "416509"
+  }
+   rownum: "3", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "170225"
+  }
+   rownum: "4", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "105718"
+  }
+   rownum: "5", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "56050"
+  }
+   rownum: "6", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "54619"
+  }
+   rownum: "7", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "34851"
+  }
+   rownum: "8", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "30583"
+  }
+   rownum: "9", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Atherosclerosis ", 
+   NumberOfDeath: "29449"
+  }
+   rownum: "10", 
+   Group: " All persons", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "26869"
+  }
+ ]
+
+ Male:[
+   rownum: "1", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "405661"
+  }
+   rownum: "2", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "225948"
+  }
+   rownum: "3", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "74180"
+  }
+   rownum: "4", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "69973"
+  }
+   rownum: "5", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "38625"
+  }
+   rownum: "6", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "27574"
+  }
+   rownum: "7", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "20505"
+  }
+   rownum: "8", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "19768"
+  }
+   rownum: "9", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "18779"
+  }
+   rownum: "10", 
+   Group: " Male", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "14325"
+  }
+ ]
+
+ Female:[
+   rownum: "1", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "355424"
+  }
+   rownum: "2", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "190561"
+  }
+   rownum: "3", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "100252"
+  }
+   rownum: "4", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "31538"
+  }
+   rownum: "5", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "27045"
+  }
+   rownum: "6", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "20526"
+  }
+   rownum: "7", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Atherosclerosis ", 
+   NumberOfDeath: "17848"
+  }
+   rownum: "8", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "17425"
+  }
+   rownum: "9", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "10815"
+  }
+   rownum: "10", 
+   Group: " Female", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "9815"
+  }
+ ]
+
+ White:[
+   rownum: "1", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "683347"
+  }
+   rownum: "2", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "368162"
+  }
+   rownum: "3", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "148734"
+  }
+   rownum: "4", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "90122"
+  }
+   rownum: "5", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "52375"
+  }
+   rownum: "6", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "48369"
+  }
+   rownum: "7", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "28868"
+  }
+   rownum: "8", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Atherosclerosis ", 
+   NumberOfDeath: "27069"
+  }
+   rownum: "9", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "25240"
+  }
+   rownum: "10", 
+   Group: " White", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "24829"
+  }
+ ]
+
+ Black or African American:[
+   rownum: "1", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "72956"
+  }
+   rownum: "2", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "45037"
+  }
+   rownum: "3", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "20135"
+  }
+   rownum: "4", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "13480"
+  }
+   rownum: "5", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "10172"
+  }
+   rownum: "6", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "6961"
+  }
+   rownum: "7", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "5648"
+  }
+   rownum: "8", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "5544"
+  }
+   rownum: "9", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "4790"
+  }
+   rownum: "10", 
+   Group: " Black or African American", 
+   Year: "1980", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis  ", 
+   NumberOfDeath: "3416"
+  }
+ ]
+
+ American Indian or Alaska Native:[
+   rownum: "1", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "1494"
+  }
+   rownum: "2", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "1290"
+  }
+   rownum: "3", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "770"
+  }
+   rownum: "4", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "410"
+  }
+   rownum: "5", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "322"
+  }
+   rownum: "6", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "257"
+  }
+   rownum: "7", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "217"
+  }
+   rownum: "8", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "210"
+  }
+   rownum: "9", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "199"
+  }
+   rownum: "10", 
+   Group: " American Indian or Alaska Native", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "181"
+  }
+ ]
+
+ Asian or Pacific Islander:[
+   rownum: "1", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "3265"
+  }
+   rownum: "2", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "2522"
+  }
+   rownum: "3", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "1028"
+  }
+   rownum: "4", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "810"
+  }
+   rownum: "5", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "342"
+  }
+   rownum: "6", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "249"
+  }
+   rownum: "7", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "246"
+  }
+   rownum: "8", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "227"
+  }
+   rownum: "9", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "211"
+  }
+   rownum: "10", 
+   Group: " Asian or Pacific Islander", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "207"
+  }
+ ]
+
+ Hispanic or  Latino:[
+   rownum: "1", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "2", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "3", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "4", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "5", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "6", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "7", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "8", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "9", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "10", 
+   Group: " Hispanic or Latino", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+ ]
+
+ White male:[
+   rownum: "1", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "364679"
+  }
+   rownum: "2", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "198188"
+  }
+   rownum: "3", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "62963"
+  }
+   rownum: "4", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "60095"
+  }
+   rownum: "5", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "35977"
+  }
+   rownum: "6", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "23810"
+  }
+   rownum: "7", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "18901"
+  }
+   rownum: "8", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "16407"
+  }
+   rownum: "9", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "12125"
+  }
+   rownum: "10", 
+   Group: " White male", 
+   Year: "1980", 
+   Cause of Death: "Atherosclerosis ", 
+   NumberOfDeath: "10543"
+  }
+ ]
+
+ Black or African American male:[
+   rownum: "1", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "37877"
+  }
+   rownum: "2", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "25861"
+  }
+   rownum: "3", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "9701"
+  }
+   rownum: "4", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "9194"
+  }
+   rownum: "5", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "8274"
+  }
+   rownum: "6", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "3869"
+  }
+   rownum: "7", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "3386"
+  }
+   rownum: "8", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "3020"
+  }
+   rownum: "9", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "2429"
+  }
+   rownum: "10", 
+   Group: " Black or African American male", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "2010"
+  }
+ ]
+
+ American Indian or Alaska Native male:[
+   rownum: "1", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "946"
+  }
+   rownum: "2", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "917"
+  }
+   rownum: "3", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "408"
+  }
+   rownum: "4", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "239"
+  }
+   rownum: "5", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "163"
+  }
+   rownum: "6", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "162"
+  }
+   rownum: "7", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "148"
+  }
+   rownum: "8", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "147"
+  }
+   rownum: "9", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "107"
+  }
+   rownum: "10", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "86"
+  }
+ ]
+
+ Asian or Pacific Islander male:[
+   rownum: "1", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "2174"
+  }
+   rownum: "2", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "1485"
+  }
+   rownum: "3", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "556"
+  }
+   rownum: "4", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "521"
+  }
+   rownum: "5", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "227"
+  }
+   rownum: "6", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "159"
+  }
+   rownum: "7", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "158"
+  }
+   rownum: "8", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "151"
+  }
+   rownum: "9", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "128"
+  }
+   rownum: "10", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "103"
+  }
+ ]
+
+ Hispanic or Latino male:[
+   rownum: "1", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "2", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "3", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "4", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "5", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "6", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "7", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "8", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "9", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "10", 
+   Group: " Hispanic or Latino male", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+ ]
+
+ White female:[
+   rownum: "1", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "318668"
+  }
+   rownum: "2", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "169974"
+  }
+   rownum: "3", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "88639"
+  }
+   rownum: "4", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "27159"
+  }
+   rownum: "5", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "24559"
+  }
+   rownum: "6", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "16743"
+  }
+   rownum: "7", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Atherosclerosis ", 
+   NumberOfDeath: "16526"
+  }
+   rownum: "8", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Chronic obstructive pulmonary diseases ", 
+   NumberOfDeath: "16398"
+  }
+   rownum: "9", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "8833"
+  }
+   rownum: "10", 
+   Group: " White female", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "6512"
+  }
+ ]
+
+ Black or African American female:[
+   rownum: "1", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "35079"
+  }
+   rownum: "2", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "19176"
+  }
+   rownum: "3", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "10941"
+  }
+   rownum: "4", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "3779"
+  }
+   rownum: "5", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "3534"
+  }
+   rownum: "6", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "3092"
+  }
+   rownum: "7", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "2262"
+  }
+   rownum: "8", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "1898"
+  }
+   rownum: "9", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "1770"
+  }
+   rownum: "10", 
+   Group: " Black or African American female", 
+   Year: "1980", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosi ", 
+   NumberOfDeath: "1722"
+  }
+ ]
+
+ American Indian or Alaska Native female:[
+   rownum: "1", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "577"
+  }
+   rownum: "2", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "362"
+  }
+   rownum: "3", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "344"
+  }
+   rownum: "4", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "171"
+  }
+   rownum: "5", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "159"
+  }
+   rownum: "6", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "124"
+  }
+   rownum: "7", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "109"
+  }
+   rownum: "8", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "92"
+  }
+   rownum: "9", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosi ", 
+   NumberOfDeath: "56"
+  }
+   rownum: "10", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "55"
+  }
+ ]
+
+ Asian or Pacific Islander female:[
+   rownum: "1", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "1091"
+  }
+   rownum: "2", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "1037"
+  }
+   rownum: "3", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "507"
+  }
+   rownum: "4", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "254"
+  }
+   rownum: "5", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "124"
+  }
+   rownum: "6", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Certain conditions originating in the perinatal period ", 
+   NumberOfDeath: "118"
+  }
+   rownum: "7", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Pneumonia and influenza ", 
+   NumberOfDeath: "115"
+  }
+   rownum: "8", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Congenital anomalies ", 
+   NumberOfDeath: "104"
+  }
+   rownum: "9", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "90"
+  }
+   rownum: "10", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "1980", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "60"
+  }
+ ]
+
+ Hispanic or Latina female:[
+   rownum: "1", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "2", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "3", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "4", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "5", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "6", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "7", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "8", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "9", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+   rownum: "10", 
+   Group: " Hispanic or Latina female", 
+   Year: "1980", 
+   Cause of Death: "", 
+   NumberOfDeath: ""
+  }
+ ]
+
+ All persons:[
+   rownum: "1", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "599413"
+  }
+   rownum: "2", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "567628"
+  }
+   rownum: "3", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "137353"
+  }
+   rownum: "4", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "128842"
+  }
+   rownum: "5", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "118021"
+  }
+   rownum: "6", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "79003"
+  }
+   rownum: "7", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "68705"
+  }
+   rownum: "8", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "53692"
+  }
+   rownum: "9", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "48935"
+  }
+   rownum: "10", 
+   Group: " All persons", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "36909"
+  }
+ ]
+
+ Male:[
+   rownum: "1", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "307225"
+  }
+   rownum: "2", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "296763"
+  }
+   rownum: "3", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "75022"
+  }
+   rownum: "4", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "65119"
+  }
+   rownum: "5", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "52073"
+  }
+   rownum: "6", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "35054"
+  }
+   rownum: "7", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "29089"
+  }
+   rownum: "8", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "25128"
+  }
+   rownum: "9", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "23930"
+  }
+   rownum: "10", 
+   Group: " Male", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "23900"
+  }
+ ]
+
+ Female:[
+   rownum: "1", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "292188"
+  }
+   rownum: "2", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "270865"
+  }
+   rownum: "3", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "76769"
+  }
+   rownum: "4", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "72234"
+  }
+   rownum: "5", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "55103"
+  }
+   rownum: "6", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "42999"
+  }
+   rownum: "7", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "33651"
+  }
+   rownum: "8", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "28564"
+  }
+   rownum: "9", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "25005"
+  }
+   rownum: "10", 
+   Group: " Female", 
+   Year: "2009", 
+   Cause of Death: "Septicemia ", 
+   NumberOfDeath: "19268"
+  }
+ ]
+
+ White:[
+   rownum: "1", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "515587"
+  }
+   rownum: "2", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "486995"
+  }
+   rownum: "3", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "126733"
+  }
+   rownum: "4", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "108764"
+  }
+   rownum: "5", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "102170"
+  }
+   rownum: "6", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "72696"
+  }
+   rownum: "7", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "54113"
+  }
+   rownum: "8", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "46432"
+  }
+   rownum: "9", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "38758"
+  }
+   rownum: "10", 
+   Group: " White", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "33425"
+  }
+ ]
+
+ Black or African American:[
+   rownum: "1", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "69687"
+  }
+   rownum: "2", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "64649"
+  }
+   rownum: "3", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "15878"
+  }
+   rownum: "4", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "12074"
+  }
+   rownum: "5", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "11960"
+  }
+   rownum: "6", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "8808"
+  }
+   rownum: "7", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "8530"
+  }
+   rownum: "8", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "7874"
+  }
+   rownum: "9", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Septicemia ", 
+   NumberOfDeath: "6179"
+  }
+   rownum: "10", 
+   Group: " Black or African American", 
+   Year: "2009", 
+   Cause of Death: "Human immunodeficiency virus (HIV) disease ", 
+   NumberOfDeath: "5377"
+  }
+ ]
+
+ American Indian or Alaska Native:[
+   rownum: "1", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "2764"
+  }
+   rownum: "2", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "2710"
+  }
+   rownum: "3", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "1733"
+  }
+   rownum: "4", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "786"
+  }
+   rownum: "5", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "714"
+  }
+   rownum: "6", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "610"
+  }
+   rownum: "7", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "561"
+  }
+   rownum: "8", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "429"
+  }
+   rownum: "9", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "402"
+  }
+   rownum: "10", 
+   Group: " American Indian or Alaska Native", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "307"
+  }
+ ]
+
+ Asian or Pacific Islander:[
+   rownum: "1", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "13274"
+  }
+   rownum: "2", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "11375"
+  }
+   rownum: "3", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "3639"
+  }
+   rownum: "4", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "2044"
+  }
+   rownum: "5", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "1846"
+  }
+   rownum: "6", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "1568"
+  }
+   rownum: "7", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "1480"
+  }
+   rownum: "8", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "1062"
+  }
+   rownum: "9", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "1024"
+  }
+   rownum: "10", 
+   Group: " Asian or Pacific Islander", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "971"
+  }
+ ]
+
+ Hispanic or  Latino:[
+   rownum: "1", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "29935"
+  }
+   rownum: "2", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "29611"
+  }
+   rownum: "3", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "10654"
+  }
+   rownum: "4", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "7065"
+  }
+   rownum: "5", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "6311"
+  }
+   rownum: "6", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "4303"
+  }
+   rownum: "7", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "4026"
+  }
+   rownum: "8", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "3679"
+  }
+   rownum: "9", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "3179"
+  }
+   rownum: "10", 
+   Group: " Hispanic or Latino", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "3107"
+  }
+ ]
+
+ White male:[
+   rownum: "1", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "263976"
+  }
+   rownum: "2", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "255042"
+  }
+   rownum: "3", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "64501"
+  }
+   rownum: "4", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "59465"
+  }
+   rownum: "5", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "43190"
+  }
+   rownum: "6", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "28205"
+  }
+   rownum: "7", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "26426"
+  }
+   rownum: "8", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "22066"
+  }
+   rownum: "9", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "21614"
+  }
+   rownum: "10", 
+   Group: " White male", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "19312"
+  }
+ ]
+
+ Black or African American male:[
+   rownum: "1", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "35420"
+  }
+   rownum: "2", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "33443"
+  }
+   rownum: "3", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "8083"
+  }
+   rownum: "4", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "6962"
+  }
+   rownum: "5", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "6715"
+  }
+   rownum: "6", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "5488"
+  }
+   rownum: "7", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "4503"
+  }
+   rownum: "8", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "3974"
+  }
+   rownum: "9", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Human immunodeficiency virus (HIV) disease ", 
+   NumberOfDeath: "3535"
+  }
+   rownum: "10", 
+   Group: " Black or African American male", 
+   Year: "2009", 
+   Cause of Death: "Septicemia ", 
+   NumberOfDeath: "2745"
+  }
+ ]
+
+ American Indian or Alaska Native male:[
+   rownum: "1", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "1591"
+  }
+   rownum: "2", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "1381"
+  }
+   rownum: "3", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "1150"
+  }
+   rownum: "4", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "418"
+  }
+   rownum: "5", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "380"
+  }
+   rownum: "6", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "313"
+  }
+   rownum: "7", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "287"
+  }
+   rownum: "8", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "263"
+  }
+   rownum: "9", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "193"
+  }
+   rownum: "10", 
+   Group: " American Indian or Alaska Native male", 
+   Year: "2009", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "1"
+  }
+ ]
+
+ Asian or Pacific Islander male:[
+   rownum: "1", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "6897"
+  }
+   rownum: "2", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "6238"
+  }
+   rownum: "3", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "1658"
+  }
+   rownum: "4", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "1288"
+  }
+   rownum: "5", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "943"
+  }
+   rownum: "6", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "864"
+  }
+   rownum: "7", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "809"
+  }
+   rownum: "8", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "666"
+  }
+   rownum: "9", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "518"
+  }
+   rownum: "10", 
+   Group: " Asian or Pacific Islander male", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "318"
+  }
+ ]
+
+ Hispanic or Latino male:[
+   rownum: "1", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "16301"
+  }
+   rownum: "2", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "15772"
+  }
+   rownum: "3", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "7841"
+  }
+   rownum: "4", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "3288"
+  }
+   rownum: "5", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "3212"
+  }
+   rownum: "6", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "2969"
+  }
+   rownum: "7", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Homicide ", 
+   NumberOfDeath: "2635"
+  }
+   rownum: "8", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Suicide ", 
+   NumberOfDeath: "2135"
+  }
+   rownum: "9", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "2024"
+  }
+   rownum: "10", 
+   Group: " Hispanic or Latino male", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "1882"
+  }
+ ]
+
+ White female:[
+   rownum: "1", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "251611"
+  }
+   rownum: "2", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "231953"
+  }
+   rownum: "3", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "67268"
+  }
+   rownum: "4", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "65574"
+  }
+   rownum: "5", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "50630"
+  }
+   rownum: "6", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "37669"
+  }
+   rownum: "7", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "25908"
+  }
+   rownum: "8", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "24818"
+  }
+   rownum: "9", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "19446"
+  }
+   rownum: "10", 
+   Group: " White female", 
+   Year: "2009", 
+   Cause of Death: "Septicemia ", 
+   NumberOfDeath: "15403"
+  }
+ ]
+
+ Black or African American female:[
+   rownum: "1", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "34267"
+  }
+   rownum: "2", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "31206"
+  }
+   rownum: "3", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "8916"
+  }
+   rownum: "4", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "6472"
+  }
+   rownum: "5", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "4834"
+  }
+   rownum: "6", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "4027"
+  }
+   rownum: "7", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "3991"
+  }
+   rownum: "8", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "3639"
+  }
+   rownum: "9", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Septicemia ", 
+   NumberOfDeath: "3434"
+  }
+   rownum: "10", 
+   Group: " Black or African American female", 
+   Year: "2009", 
+   Cause of Death: "Essential hypertension and hypertensive renal disease ", 
+   NumberOfDeath: "2802"
+  }
+ ]
+
+ American Indian or Alaska Native female:[
+   rownum: "1", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "1329"
+  }
+   rownum: "2", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "1173"
+  }
+   rownum: "3", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "583"
+  }
+   rownum: "4", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "368"
+  }
+   rownum: "5", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "334"
+  }
+   rownum: "6", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "323"
+  }
+   rownum: "7", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "298"
+  }
+   rownum: "8", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "209"
+  }
+   rownum: "9", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "181"
+  }
+   rownum: "10", 
+   Group: " American Indian or Alaska Native female", 
+   Year: "2009", 
+   Cause of Death: "Septicemia ", 
+   NumberOfDeath: "148"
+  }
+ ]
+
+ Asian or Pacific Islander female:[
+   rownum: "1", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "6377"
+  }
+   rownum: "2", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "5137"
+  }
+   rownum: "3", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "1981"
+  }
+   rownum: "4", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "903"
+  }
+   rownum: "5", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "759"
+  }
+   rownum: "6", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "756"
+  }
+   rownum: "7", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "706"
+  }
+   rownum: "8", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "616"
+  }
+   rownum: "9", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "544"
+  }
+   rownum: "10", 
+   Group: " Asian or Pacific Islander female", 
+   Year: "2009", 
+   Cause of Death: "Essential hypertension and hypertensive renal disease ", 
+   NumberOfDeath: "410"
+  }
+ ]
+
+ Hispanic or Latina female:[
+   rownum: "1", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Malignant neoplasms ", 
+   NumberOfDeath: "14163"
+  }
+   rownum: "2", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Diseases of heart ", 
+   NumberOfDeath: "13310"
+  }
+   rownum: "3", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Cerebrovascular diseases ", 
+   NumberOfDeath: "3777"
+  }
+   rownum: "4", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Diabetes mellitus ", 
+   NumberOfDeath: "3099"
+  }
+   rownum: "5", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Unintentional injuries ", 
+   NumberOfDeath: "2813"
+  }
+   rownum: "6", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Alzheimer's disease ", 
+   NumberOfDeath: "2013"
+  }
+   rownum: "7", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Chronic lower respiratory diseases ", 
+   NumberOfDeath: "2002"
+  }
+   rownum: "8", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Influenza and pneumonia ", 
+   NumberOfDeath: "1797"
+  }
+   rownum: "9", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Nephritis and hrotic syndrome and nephrosis ", 
+   NumberOfDeath: "1514"
+  }
+   rownum: "10", 
+   Group: " Hispanic or Latina female", 
+   Year: "2009", 
+   Cause of Death: "Chronic liver disease and cirrhosis ", 
+   NumberOfDeath: "1334"
+  }
+ ]
+
+}

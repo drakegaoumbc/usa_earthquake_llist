@@ -1,5 +1,4 @@
 import { Component, OnInit, Output, Input, EventEmitter } from '@angular/core';
-import { MdTooltipModule } from '@angular/material';
 import { States } from '../States';
 import { EarthquakeServiceComponent } from '../earthquake-service/earthquake-service.component';
 import { EarthQuakeProperty } from '../EarthQuakeProperty';
